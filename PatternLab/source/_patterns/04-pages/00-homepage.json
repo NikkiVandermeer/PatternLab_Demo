@@ -1,0 +1,148 @@
+{
+	"title" : "Home Page",
+	"bodyClass": "home",
+	"emergency" : false,
+    "imgHero" : {
+  	  "src": "../../images/sample/hero-openroad.jpg",
+      "alt": "Open Road"
+    },
+    "headline" : {
+        "medium" : "Start an adventure. Meet new friends. Join the Happy Camper Vintage RV Club."
+    },
+	"toutList" : [
+      {
+		"url": "link.pages-blog-detail",
+		"headline": {
+			"short" : "Read our Blog"
+		},
+		"imgLandscape" : {
+	  	  "src": "../../images/sample/airstream.jpg",
+	        "alt": "Vintage Airstream"
+	    }
+	  },
+      {
+		"url": "link.pages-login",
+		"headline": {
+			"short" : "Upcoming Events"
+		},
+		"imgLandscape" : {
+	  	  "src": "../../images/sample/events.jpg",
+	        "alt": "RV Rally"
+	    }
+	  },
+      {
+		"url" : "link.pages-about",
+		"headline": {
+			"short" : "Learn about our mission"
+		},
+		"imgLandscape" : {
+	  	  "src": "../../images/sample/happycamper.jpg",
+	        "alt": "Happy Camper RV"
+	    }
+	  }
+    ],
+	"inset-blocks" : [
+		{
+			"headline" : "This is the headline for the inset block"
+		}
+	],
+	"latestPosts" : {
+		"sectionTitle": "Latest From the Blog",
+		"mediaList": [
+			{
+				"url" : "link.pages-blog-detail",
+				"imgSquare" : {
+					"src": "../../../images/sample/openroad-blog.jpg",
+					"alt": "red mountains"
+				},
+				"headline" : {
+					"short" : "Top RV Routes in the U.S."
+				},
+				"excerpt" : {
+					"medium" : "The United States delivers a multitude of scenic drives.  How beautiful? We have listed some of the most breathtaking roads in the U.S."
+				}
+				
+			},
+			{
+				"url" : "link.pages-blog-detail",
+				"imgSquare" : {
+					"src": "../../../images/sample/brokendown-blog.jpg",
+					"alt": "road with trees"
+				},
+				"headline" : {
+					"short" : "How to Prepare for Survival on the Road"
+				},
+				"excerpt" : {
+					"medium" : "Picture yourself alone on the open road with only a few belongings.  Learn what to pack and what to remember when heading out to your next adventure."
+				}
+				
+			},
+			{
+				"url" : "link.pages-blog-detail",
+				"imgSquare" : {
+					"src": "../../../images/sample/blog-mtns2.jpg",
+					"alt": "mountain and lake"
+				},
+				"headline" : {
+					"short" : "Top 10 Best Locations to visit in Your RV in the U.S."
+				},
+				"excerpt" : {
+					"medium" : "You do not have to travel far to explore what nature has to offer. The U.S. contains some of the best sights in the world and we have listed the 10 best for you."
+				}
+				
+			}
+		],
+		"btnText" : "View All Posts"
+	},
+	"featuredPeople" : {
+		"sectionTitle" : "Featured Rv'ers",
+		"mediaList": [
+			{
+				"url" : "",
+				"styleModifier" : "small",
+				"imgSquare" : {
+					"src": "../../../images/sample/avatar1.jpg",
+					"alt": "avatar"
+				},
+				"headline" : {
+					"short" : "Jimmy Stewart"
+				},
+				"excerpt" : {
+					"medium" : "Indiana, PA"
+				}
+				
+			},
+			{
+				"url" : "",
+				"styleModifier" : "small",
+				"imgSquare" : {
+					"src": "../../../images/sample/avatar2.jpg",
+					"alt": "avatar"
+				},
+				"headline" : {
+					"short" : "Janice Kimble"
+				},
+				"excerpt" : {
+					"medium" : "Los Angeles, CA"
+				}
+				
+			},
+			{
+				"url" : "",
+				"styleModifier" : "small",
+				"imgSquare" : {
+					"src": "../../../images/sample/avatar3.jpg",
+					"alt": "avatar"
+				},
+				"headline" : {
+					"short" : "Salvadore Dali XIV"
+				},
+				"excerpt" : {
+					"medium" : "Sheboygan, WI"
+				}
+				
+			}
+		],
+		"btnText" : "View All RV'ers"
+	}
+}

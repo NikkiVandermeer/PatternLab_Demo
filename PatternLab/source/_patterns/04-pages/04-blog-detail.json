@@ -1,0 +1,123 @@
+{
+	"pageTitle" : "Hardest Hikes in the World",
+	"htmlText" : "<p>There are as many different ways to experience the RV lifestyle as there are models of RVs.  The Happy Camper Vintage RV Club welcomes and supports them all. Because of this, we are certain you’ll find a group of fellow RV'ers much like yourself.  The Happy Camper Vintage RV Club has always welcomed all RVers, regardless of the type of rig in which they travel. You’ll find RV'ers in motorhomes, camper vans, fifth-wheel trailers, toy haulers, travel trailers, and truck campers, in sizes ranging from tiny and cozy to large and spacious. </p> <p>Many of our members live in their RV full-time. Some travel year-round, while others may spend weeks or months in one location before moving on. Other members maintain a traditional “sticks and bricks” house, and travel only part of the year, or only on weekends or for a few weeks at a time.  </p><p>Our membership spans all ages: from Millennials to Gen-Xers, from Baby Boomers to members of the Greatest Generation. In fact, the fastest-growing part of the club is our Xscapers lifestyle group, a diverse community of today’s active and adventurous RVers–many of whom have chosen to see the country by RV years, or even decades, before they retire.</p><img class='c-text-passage__img' src='../../../images/sample/blog-mtns4.jpg' />",
+	"formTitle" : "Comments",
+	"form" : {
+		"fields" : {
+			"field" : [
+				{
+					"label" : "Name",
+					"placeholder" : "i.e. John Smith"
+				},
+				{
+					"label" : "Email",
+					"placeholder" : "name@email.com"
+				}
+			]
+		}
+	},
+	"textarea" : {
+		"label" : "Comment"
+	},
+	"btnText" : "Add Comment",
+	"featuredPosts" : {
+		"sectionTitle" : "Featured Posts",
+		"mediaList": [
+			{
+				"url" : "link.pages-blog-detail",
+				"imgSquare" : {
+					"src": "../../../images/sample/money.jpg",
+					"alt": "hiker with backpack"
+				},
+				"headline" : {
+					"short" : "Adventurous And Affordable RV Travel"
+				},
+				"excerpt" : {
+					"medium" : "Learn tips and tricks so RV'ing doesn't break your bank"
+				}
+				
+			},
+			{
+				"url" : "link.pages-blog-detail",
+				"imgSquare" : {
+					"src": "../../../images/sample/accessories.jpg",
+					"alt": "mountain range"
+				},
+				"headline" : {
+					"short" : "Where to Find RV Accessories"
+				},
+				"excerpt" : {
+					"medium" : "A list of locations where quality RV parts and accessories are sold"
+				}
+				
+			},
+			{
+				"url" : "link.pages-blog-detail",
+				"imgSquare" : {
+					"src": "../../../images/sample/oregoncoast.jpg",
+					"alt": "forest of trees"
+				},
+				"headline" : {
+					"short" : "Beautiful RV'ing on the Oregon Coast"
+				},
+				"excerpt" : {
+					"medium" : "Consider the Oregon Coast for your next trip"
+				}
+				
+			}
+		],
+		"btnText" : "View All Posts"
+	},
+	"featuredPeople" : {
+		"sectionTitle" : "Featured RV'ers",
+		"mediaList": [
+			{
+				"url" : "",
+				"styleModifier" : "small",
+				"imgSquare" : {
+					"src": "../../../images/sample/avatar5.jpg",
+					"alt": "avatar"
+				},
+				"headline" : {
+					"short" : "Charlie Chaplin"
+				},
+				"excerpt" : {
+					"medium" : "London, UK"
+				}
+				
+			},
+			{
+				"url" : "",
+				"styleModifier" : "small",
+				"imgSquare" : {
+					"src": "../../../images/sample/avatar4.jpg",
+					"alt": "avatar"
+				},
+				"headline" : {
+					"short" : "Danny DeVito"
+				},
+				"excerpt" : {
+					"medium" : "Neptune Township, NJ"
+				}
+				
+			},
+			{
+				"url" : "",
+				"styleModifier" : "small",
+				"imgSquare" : {
+					"src": "../../../images/sample/avatar6.jpg",
+					"alt": "avatar"
+				},
+				"headline" : {
+					"short" : "Sally Jessy Raphael"
+				},
+				"excerpt" : {
+					"medium" : "Easton, PA"
+				}
+				
+			}
+		],
+		"btnText" : "View All RV'ers"
+	}
+
+}

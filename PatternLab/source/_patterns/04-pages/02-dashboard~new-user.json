@@ -1,0 +1,139 @@
+{
+	"alert" : {
+		"styleModifier" : "info"
+	},
+	"alertText" : "Welcome to the Happy Camper Vintage RV Club dashboard! This will keep you updated with all of your trips and relevent RV blog posts. Happy RV'ing!",
+	"blockFeature" : {
+	    "styleModifier" : "featured",
+	    "number" : "0",
+	    "headline" : {
+			"short": "Routes Traveled"
+		},
+		"progress" : {
+			"max" : "100",
+			"progressValue" : "0",
+			"label" : "Progress: 0%"
+		},
+		"overlay" : {
+				"overlayMessage" : "Let's hit the oen road and go on a drive.",
+				"overlayAction" : "Find Your Route"
+		}
+    },	
+	"tileList" : [
+		{
+			"number" : "0",
+			"headline" : {
+				"short": "National Parks"
+			},
+			"progress" : {
+				"max" : "100",
+				"progressValue" : "0",
+				"label" : "Progress: 0%"
+			},
+			"overlay" : {
+				"overlayMessage" : "What National Parks have you visited?",
+				"overlayAction" : "Find a National Park"
+			}
+		},
+		{
+			"number" : "0",
+			"headline" : {
+				"short": "Trips"
+			},
+			"progress" : {
+				"max" : "100",
+				"progressValue" : "0",
+				"label" : "Progress: 0%"
+			},
+			"overlay" : {
+				"overlayMessage" : "Been on a trip recently?",
+				"overlayAction" : "Log Your Trips"
+			}
+		},
+		{
+			"number" : "0",
+			"headline" : {
+				"short": "Miles Driven"
+			},
+			"progress" : {
+				"max" : "100",
+				"progressValue" : "0",
+				"label" : "Progress: 0%"
+			},
+			"overlay" : {
+				"overlayMessage" : "Trying to Keep Track?",
+				"overlayAction" : "Track Your Miles"
+			}
+		},
+		{
+			"number" : "0",
+			"headline" : {
+				"short": "Miles Per Gallon"
+			},
+			"progress" : {
+				"max" : "100",
+				"progressValue" : "0",
+				"label" : "Progress: 0%"
+			},
+			"overlay" : {
+				"overlayMessage" : "Logging Miles per Gallon?",
+				"overlayAction" : "Log Your Fuel Mileage"
+			}
+		}
+    ],
+	"featuredPeople" : {
+		"overlay" : {
+			"overlayMessage" : "Invite you friends along to you next big trip!",
+			"overlayAction" : "Connect to your Friends"
+		},
+		"sectionTitle" : "Friends",
+		"mediaList": [
+			{
+				"url" : "",
+				"styleModifier" : "small",
+				"imgSquare" : {
+					"src": "../../../images/fpo_avatar.png",
+					"alt": "avatar"
+				},
+				"headline" : {
+					"short" : "Your Best Friend"
+				},
+				"excerpt" : {
+					"medium" : "City, State"
+				}
+
+			},
+			{
+				"url" : "",
+				"styleModifier" : "small",
+				"imgSquare" : {
+					"src": "../../../images/fpo_avatar.png",
+					"alt": "avatar"
+				},
+				"headline" : {
+					"short" : "Your Neighbor"
+				},
+				"excerpt" : {
+					"medium" : "City, State"
+				}
+
+			},
+			{
+				"url" : "",
+				"styleModifier" : "small",
+				"imgSquare" : {
+					"src": "../../../images/fpo_avatar.png",
+					"alt": "avatar"
+				},
+				"headline" : {
+					"short" : "Your Brother"
+				},
+				"excerpt" : {
+					"medium" : "City, State"
+				}
+
+			}
+		],
+		"btnText" : "Find a Friend"
+	}
+}
