@@ -4,7 +4,7 @@ The Gulp wrapper around [Pattern Lab Node Core](https://github.com/pattern-lab/p
 
 ## Packaged Components
 
-The Gulp Edition comes with the following components:
+The Gulp Edition comes with the following components: Test
 
 * `patternlab-node`: [GitHub](https://github.com/pattern-lab/patternlab-node), [npm](https://www.npmjs.com/package/patternlab-node)
 * `patternengine-node-mustache`: [GitHub](https://github.com/pattern-lab/patternengine-node-mustache), [npm](https://www.npmjs.com/package/patternengine-node-mustache)
