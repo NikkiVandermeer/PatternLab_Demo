@@ -1,6 +1,5 @@
 # Pattern Lab Node - Gulp Edition
 <<<<<<< HEAD
-New Test change %%%%%%%%%%
 =======
 
 >>>>>>> 2ad9f50feb0c305ccef974067fc38ad90488d7e1
