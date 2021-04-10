@@ -5,8 +5,8 @@
 The Gulp wrapper around [Pattern Lab Node Core](https://github.com/pattern-lab/patternlab-node) providing tasks to interact with the core library and move supporting frontend assets.
 
 ## Packaged Components
-<<<<<<<< Final Test update.
-The Gulp Edition comes with the following components: Test
+
+The Gulp Edition comes with the following components:
 
 * `patternlab-node`: [GitHub](https://github.com/pattern-lab/patternlab-node), [npm](https://www.npmjs.com/package/patternlab-node)
 * `patternengine-node-mustache`: [GitHub](https://github.com/pattern-lab/patternengine-node-mustache), [npm](https://www.npmjs.com/package/patternengine-node-mustache)
